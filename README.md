@@ -19,13 +19,13 @@
 - 🔄 **CI/CD**: GitHub Actions, Jenkins, ArgoCD, GitLab CI  
 - 📊 **Monitoring & Logging**: Prometheus, Grafana  
 - 🐍 **Scripting**: Python (Boto3), Bash  
-- 🔐 **Security & Policy**IAM best practices
+- 🔐 **Security & Policy** : IAM best practices
   
 ---
 
 ## 🌐 Connect with Me
-Linkedin Profile : https://www.linkedin.com/in/imrealaryanjain/)  
+Linkedin Profile : https://www.linkedin.com/in/imrealaryanjain/  
 Mail at : imrealaryanjain@gmail.com  
-
+DevOps Research : https://www.instagram.com/devops.aryanjain/
 ---
 ✨ *Always learning, always building, always automating.*
