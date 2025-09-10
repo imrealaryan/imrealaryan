@@ -24,8 +24,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn]-> https://www.linkedin.com/in/imrealaryanjain/)  
-[![Email](mailto:imrealaryanjain@gmail.com)   
+Linkedin Profile : https://www.linkedin.com/in/imrealaryanjain/)  
+Mail at : imrealaryanjain@gmail.com  
 
 ---
 ✨ *Always learning, always building, always automating.*
